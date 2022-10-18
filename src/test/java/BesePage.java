@@ -1,5 +1,5 @@
 public class BesePage {
-    public static void Base (String test){
+    public static void Base (String NewTetst1){
 
     }
 }
